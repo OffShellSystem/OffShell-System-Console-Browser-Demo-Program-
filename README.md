@@ -5,7 +5,7 @@
 # Freedom Software
 𝈳 We like to create software that respects users and their freedoms.
 # Contact
-𝈳 https://offshell00.wixsite.com/offshell
+𝈳 www.offshellsystem.tk
 
 # OffShell System.
 𝈳 Company of freedom users.
