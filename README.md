@@ -4,7 +4,7 @@
 𝈳 This is a small version of future programs that will be published by OffShell System.
 # Freedom Software
 𝈳 We like to create software that respects users and their freedoms.
-# Contact
+# Contact 
 𝈳 www.offshellsystem.tk
 
 # OffShell System.
